@@ -1,6 +1,6 @@
 # BASIC EXPRESS JS
 
-**notes: create env and add code below this**
+**notes: create env and add code below this and install or update npm**
 `APP_NAME=basic-express-api`
 
 `DB_USERNAME= sesuaikan`
